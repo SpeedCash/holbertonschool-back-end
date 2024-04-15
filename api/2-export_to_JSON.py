@@ -2,8 +2,10 @@
 
 
 """
-This script retrieves data about a user and their tasks from JSONPlaceholder API based on a user ID.
-The data is then saved into a JSON file, with each task's details including completion status and user info.
+This script retrieves data about a user and their tasks
+from JSONPlaceholder API based on a user ID.
+The data is then saved into a JSON file, with each task's details including
+completion status and user info.
 
 """
 
