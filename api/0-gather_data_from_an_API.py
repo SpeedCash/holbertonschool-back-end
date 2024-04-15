@@ -30,7 +30,8 @@ def main():
     total_tasks = len(todos)
     done_tasks = sum(1 for task in todos if task.get('completed'))
 
-    print(f"Employee {user.get('name')} is done with tasks({done_tasks}/{total_tasks}):")
+    print(f"Employee {user.get('name')} is done with tasks\
+          ({done_tasks}/{total_tasks}):")
     for task in todos:
         if task.get('completed'):
             print(f"\t {task.get('title')}")
