@@ -8,9 +8,9 @@ The data is then saved into a JSON file, with each task's details including comp
 """
 
 
-import urllib.request
-import sys
 import json
+import sys
+import urllib.request
 
 
 def main():
