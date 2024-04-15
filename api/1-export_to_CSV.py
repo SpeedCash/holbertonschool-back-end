@@ -8,10 +8,10 @@ It uses user ID provided as a command-line argument to fetch and save the data.
 """
 
 
-import urllib.request
-import sys
-import json
 import csv
+import json
+import sys
+import urllib.request
 
 
 def main():
