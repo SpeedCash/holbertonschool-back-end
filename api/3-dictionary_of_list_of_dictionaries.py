@@ -1,3 +1,6 @@
+# This script fetches data on all users and their respective tasks from JSONPlaceholder API.
+# It then organizes the tasks per user into a dictionary and saves it as a JSON file.
+
 #!/usr/bin/python3
 import urllib.request
 import json
