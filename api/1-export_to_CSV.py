@@ -2,7 +2,8 @@
 
 
 """
-This script retrieves user and their tasks data from JSONPlaceholder API and saves it to a CSV file.
+This script retrieves user and their tasks data from JSONPlaceholder API and
+saves it to a CSV file.
 It uses user ID provided as a command-line argument to fetch and save the data.
 
 """
