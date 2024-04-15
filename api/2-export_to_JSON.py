@@ -1,7 +1,13 @@
-# This script retrieves data about a user and their tasks from JSONPlaceholder API based on a user ID.
-# The data is then saved into a JSON file, with each task's details including completion status and user info.
-
 #!/usr/bin/python3
+
+
+"""
+This script retrieves data about a user and their tasks from JSONPlaceholder API based on a user ID.
+The data is then saved into a JSON file, with each task's details including completion status and user info.
+
+"""
+
+
 import urllib.request
 import sys
 import json
