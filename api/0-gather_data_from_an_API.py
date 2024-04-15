@@ -9,9 +9,9 @@ It prints the completed tasks of the specified user.
 """
 
 
-import urllib.request
-import sys
 import json
+import sys
+import urllib.request
 
 
 def main():
