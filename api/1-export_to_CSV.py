@@ -1,3 +1,6 @@
+# This script retrieves user and their tasks data from JSONPlaceholder API and saves it to a CSV file.
+# It uses user ID provided as a command-line argument to fetch and save the data.
+
 #!/usr/bin/python3
 import urllib.request
 import sys
