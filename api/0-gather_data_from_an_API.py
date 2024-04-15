@@ -1,7 +1,9 @@
 #!/usr/bin/python3
 
+
 """ This script fetches and displays a user's tasks from JSONPlaceholder API based on a provided user ID.
 It prints the completed tasks of the specified user."""
+
 
 import urllib.request
 import sys
